@@ -30,3 +30,7 @@ backup-verify run --driver restic --repo /srv/backups/db --scratch /var/tmp/veri
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [opsbox](https://github.com/moveeeax/opsbox/issues/3).
